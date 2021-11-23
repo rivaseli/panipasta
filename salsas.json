@@ -1,0 +1,32 @@
+[
+    {
+        "imagen" : "Imagenes/salsa fileto.jpg",
+        "nombre" : "Filetto",
+        "precio" : "$180",
+        "id" : 1
+    },
+    {
+        "imagen" : "Imagenes/salsa bolognesa.jpg",
+        "nombre" : "Bolognesa",
+        "precio" : "$200",
+        "id" : 2
+    },
+    {
+        "imagen" : "Imagenes/salsa blanca.jpg",
+        "nombre" : "Bechamel",
+        "precio" : "$150",
+        "id" : 3
+    },
+    {
+        "imagen" : "Imagenes/salsa pesto.jpg",
+        "nombre" : "Pesto",
+        "precio" : "$100",
+        "id" : 4
+    }
+
+]
+     
+      
+      
+
+     

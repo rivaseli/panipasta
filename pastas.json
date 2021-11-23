@@ -1,0 +1,20 @@
+[
+    {
+        "imagen" : "Imagenes/tallarines.jpg",
+        "nombre" : "Tallarines",
+        "precio" : "$180",
+        "id" : 1
+    },
+    {
+        "imagen" : "Imagenes/cintas.jpg",
+        "nombre" : "Cintas",
+        "precio" : "$200",
+        "id" : 2
+    },
+    {
+        "imagen" : "Imagenes/Ñoquis.jpg",
+        "nombre" : "Ñoquis",
+        "precio" : "$400",
+        "id" : 3
+    }
+]

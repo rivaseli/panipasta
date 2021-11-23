@@ -1,0 +1,27 @@
+[
+    {
+        "imagen" : "Imagenes/panLactal.jpg",
+        "nombre" : "Pan Lactal",
+        "precio" : "$180",
+        "id" : 1
+    },
+    {
+        "imagen" : "Imagenes/Focaccia.jpg",
+        "nombre" : "Focaccia",
+        "precio" : "$200",
+        "id" : 2
+    },
+    {
+        "imagen" : "Imagenes/brioche.jpg",
+        "nombre" : "Brioche",
+        "precio" : "$150",
+        "id" : 3
+    },
+    {
+        "imagen" : "Imagenes/panDeCurcuma.jpg",
+        "nombre" : "Pan de Curcuma",
+        "precio" : "$250",
+        "id" : 4
+    }
+
+]
